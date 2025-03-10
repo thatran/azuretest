@@ -2,6 +2,7 @@ import azure.functions as func
 import logging
 
 secret = "abc123asdf3456"
+# https://abc_git:$passwordstoredasvariable@github.com/terraform-modules/infra.git
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.FUNCTION)
 
