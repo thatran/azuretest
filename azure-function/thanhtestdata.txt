@@ -1,0 +1,2 @@
+password = "abc123"
+credit_card = "1234 1234 1234 1234"

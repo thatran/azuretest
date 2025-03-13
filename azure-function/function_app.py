@@ -3,6 +3,7 @@ import logging
 
 secret = "abc123asdf3456"
 # https://abc_git:$passwordstoredasvariable@github.com/terraform-modules/infra.git
+credit_card = "1234 5678 9012 3456"
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.FUNCTION)
 
