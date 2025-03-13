@@ -1,3 +1,10 @@
 {
-    "wiz.codePolicies.IAC Configuration": []
+    "wiz.codePolicies.IAC Configuration": [],
+    "azureFunctions.deploySubpath": "azure-function",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 2
 }
