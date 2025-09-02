@@ -1,6 +1,8 @@
+passport_1 = "A44467891"
 password = "abc123"
 credit_card = "4234 1234 1234 1234"
 secret = "aefaeasfasfafsfa"
+passport_2 = "A45467622"
 credit_card_2 = "4444 1234 1234 1234"
 credit_card_3 = "4000 1234 1234 1234"
 credit_card_4 = "4001 1234 1234 1234"
