@@ -1,0 +1,8 @@
+{
+  "pull_request_number": 101,
+  "action": "add_reviewer",
+  "request_id": "0500dcf1-95aa-463a-889b-9f130739c870" ,
+  "approvers": [
+     ["0", {"username": "christer.hemgren", "email": "christer.hemgren@klarna.com"}]
+  ]
+}
